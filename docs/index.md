@@ -28,4 +28,4 @@ Learn more on how to **prepare** for problem solving and data structures round a
 - Make the interview interactive through discussion so that the interviewer can understand your solution approach better.
 - Try to use meaningful variable and method names while coding to make the code more readable and understandable.
 
-Learn more on how to **ace** the problem solving and data structures round during the interview at: [How to ace for problem solving and data structures round?](https://workat.tech/problem-solving/article/how-to-ace-ps-ds-round-bg1570pm4avl)
+Learn more on how to **ace** the problem solving and data structures round during the interview at: [How to ace the problem solving and data structures round?](https://workat.tech/problem-solving/article/how-to-ace-ps-ds-round-bg1570pm4avl)

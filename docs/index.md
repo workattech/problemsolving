@@ -29,3 +29,12 @@ Learn more on how to **prepare** for problem solving and data structures round a
 - Try to use meaningful variable and method names while coding to make the code more readable and understandable.
 
 Learn more on how to **ace** the problem solving and data structures round during the interview at: [How to ace the problem solving and data structures round?](https://workat.tech/problem-solving/article/how-to-ace-ps-ds-round-bg1570pm4avl)
+
+---
+Other articles you might be interested in:
+- [How to prepare for technical interviews at companies like Amazon, Flipkart, Google, Microsoft, Swiggy, Uber, etc?](https://workattech.github.io)
+- [Machine Coding Round](https://workattech.github.io/machinecoding)
+
+___
+
+I actively write about [interview preparation](https://workat.tech) on LinkedIn as [gcnit](https://www.linkedin.com/in/gcnit)
